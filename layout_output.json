@@ -1,0 +1,5812 @@
+{
+  "documentLayout": {
+    "blocks": [
+      {
+        "blockId": "1",
+        "tableBlock": {
+          "bodyRows": [
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "2",
+                      "textBlock": {
+                        "text": "Meals",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "3",
+                      "textBlock": {
+                        "text": "Planned",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "4",
+                      "textBlock": {
+                        "text": "Prepared",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "5",
+                      "textBlock": {
+                        "text": "Served",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "6",
+                      "textBlock": {
+                        "text": "-12 Reimb",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "7",
+                      "textBlock": {
+                        "text": "940",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "8",
+                      "textBlock": {
+                        "text": "949",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "9",
+                      "textBlock": {
+                        "text": "895",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "10",
+                      "textBlock": {
+                        "text": "Adult",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "11",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "12",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "13",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "14",
+                      "textBlock": {
+                        "text": "otal",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "15",
+                      "textBlock": {
+                        "text": "940",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "16",
+                      "textBlock": {
+                        "text": "949",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "17",
+                      "textBlock": {
+                        "text": "895",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            }
+          ],
+          "headerRows": [],
+          "caption": ""
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "18",
+        "textBlock": {
+          "text": "webtrition\u00b2 powered by chefs",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "19",
+        "textBlock": {
+          "text": "MenuWorks Production Record (K12)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "20",
+        "textBlock": {
+          "text": "Report Run By: STEPHANIE SI Run Date: 02/1",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "21",
+        "textBlock": {
+          "text": "Dayton High School#2 (263",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "22",
+        "textBlock": {
+          "text": "School Name: Dayton High School #2 Date: Feb 18, 2025",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "23",
+        "textBlock": {
+          "text": "Menu Name: High School Lunch 24/25",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "24",
+        "textBlock": {
+          "text": "Grade Group: 9-12",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "25",
+        "textBlock": {
+          "text": "OVS: Yes Notes:",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "26",
+        "textBlock": {
+          "text": "No",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "27",
+        "textBlock": {
+          "text": "Manager Signature:",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "28",
+        "textBlock": {
+          "text": "St",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "29",
+        "textBlock": {
+          "text": "Meal Period: Lunch",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "30",
+        "textBlock": {
+          "text": "Jesday, February 18, 2025",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "31",
+        "textBlock": {
+          "text": "MERICAN CLASSICS",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "32",
+        "tableBlock": {
+          "bodyRows": [
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "33",
+                      "textBlock": {
+                        "text": "ecipe #",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "34",
+                      "textBlock": {
+                        "text": "Recipe Name",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "35",
+                      "textBlock": {
+                        "text": "Portion Size",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "36",
+                      "textBlock": {
+                        "text": "Meal Components",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "37",
+                      "textBlock": {
+                        "text": "Plan Svgs Reimb",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "38",
+                      "textBlock": {
+                        "text": "Plan Svgs Non-Reimb",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "39",
+                      "textBlock": {
+                        "text": "Plan Svgs Total",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "40",
+                      "textBlock": {
+                        "text": "Prep Svgs Total",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "41",
+                      "textBlock": {
+                        "text": "QTY Prepared",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "42",
+                      "textBlock": {
+                        "text": "Serve Svgs Total",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "43",
+                      "textBlock": {
+                        "text": "Leftover",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "44",
+                      "textBlock": {
+                        "text": "Com",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "45",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "46",
+                      "textBlock": {
+                        "text": "Breakfast for Lunch Bundle",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "47",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "48",
+                      "textBlock": {
+                        "text": "2.75 Oz MMA, 2 Oz G (E)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "49",
+                      "textBlock": {
+                        "text": "300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "50",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "51",
+                      "textBlock": {
+                        "text": "300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "52",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "53",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "54",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "55",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "56",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "57",
+                      "textBlock": {
+                        "text": "3300.39 1513.31",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "58",
+                      "textBlock": {
+                        "text": "Buttermilk Pancakes Pork Sausage Patty",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "59",
+                      "textBlock": {
+                        "text": "2 each 1 each",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "60",
+                      "textBlock": {
+                        "text": "2 Oz G (E) 0.75 Oz M\u039c\u0391",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "61",
+                      "textBlock": {
+                        "text": "298 298",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "62",
+                      "textBlock": {
+                        "text": "2 2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "63",
+                      "textBlock": {
+                        "text": "300 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "64",
+                      "textBlock": {
+                        "text": "300 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "65",
+                      "textBlock": {
+                        "text": "4CS@7aser+12 200@107+86",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "66",
+                      "textBlock": {
+                        "text": "300 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "67",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "68",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "69",
+                      "textBlock": {
+                        "text": "0982.1 4680.33",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "70",
+                      "textBlock": {
+                        "text": "Scrambled Eggs with Cheddar Cheese Tater Tots",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "71",
+                      "textBlock": {
+                        "text": "1/4 cup 2-1/2 ounce",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "72",
+                      "textBlock": {
+                        "text": "2 Oz MMA 1/2 Cup V (S)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "73",
+                      "textBlock": {
+                        "text": "298 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "74",
+                      "textBlock": {
+                        "text": "2 0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "75",
+                      "textBlock": {
+                        "text": "300 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "76",
+                      "textBlock": {
+                        "text": "300 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "77",
+                      "textBlock": {
+                        "text": "30 lbegg 4816 802",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "78",
+                      "textBlock": {
+                        "text": "300 300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "79",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "80",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "81",
+                      "textBlock": {
+                        "text": "4672",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "82",
+                      "textBlock": {
+                        "text": "Seasoned Carrots Choose up to 3 item(s)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "83",
+                      "textBlock": {
+                        "text": "1/2 cup",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "84",
+                      "textBlock": {
+                        "text": "1/2 Cup V (RO)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "85",
+                      "textBlock": {
+                        "text": "50",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "86",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "87",
+                      "textBlock": {
+                        "text": "50",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "88",
+                      "textBlock": {
+                        "text": "GO",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "89",
+                      "textBlock": {
+                        "text": "1016 402",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "90",
+                      "textBlock": {
+                        "text": "45",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "91",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "92",
+                      "textBlock": {
+                        "text": "TO",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "93",
+                      "textBlock": {
+                        "text": "47635",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "94",
+                      "textBlock": {
+                        "text": "Sour Cream",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "95",
+                      "textBlock": {
+                        "text": "1 each",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "96",
+                      "textBlock": {
+                        "text": "extra",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "97",
+                      "textBlock": {
+                        "text": "300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "98",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "99",
+                      "textBlock": {
+                        "text": "300",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "100",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "101",
+                      "textBlock": {
+                        "text": "Did not use",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "102",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "103",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "104",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 1,
+                        "pageEnd": 1
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            }
+          ],
+          "headerRows": [],
+          "caption": ""
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "105",
+        "textBlock": {
+          "text": "Component Key Code: MMA = Total Meat/Meat Alternate; G= Total Grains; E= Enriched; WG = Whole Grain Rich; Enriched Dessert =E-D; Whole Grain Rich Dessert = WG-D; Fr= Total Fruits; Fr-J= Fruit Juice; v= Total Vegetal Dark Green; RO = Red/Orange; \\perp= Beans and Peas (Legumes); S= Starchy; o= Other; A= Additional; DG-J = Vegetable Juice; RO-J = Vegetable Juice; 0-J= Vegetable Juice; A-J= Vegetable Juice; Milk = Total Milk Bulk Quantity Prepared: Number of pounds, cases, #10 cans, etc. needed to produce total number of proportions prepared (refer to buying guide and/or right sized recipe)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "106",
+        "textBlock": {
+          "text": "HACCP Codes: 1 - Ready to eat foods: No Cook; 2 - Same day service - No leftovers; 3 - Complex food prep - Cold finished product; 4 - Complex food prep - Hot finished product Leftover Status: TO - Thrown Out; RTS - Return to Stock; RF - Returned to Refrigerator; FZ - Returned to Freezer",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "107",
+        "textBlock": {
+          "text": "Copyright \u00a9 2025 Compass Group North America. (CGNA) All Rights Reserved. The contents of this website, including information viewed, downloaded or printed from this website, are proprietary and confidential to CGNA and ma copied, used or disclosed without the express written permission of CGNA.",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "108",
+        "textBlock": {
+          "text": "Page 34 of 58",
+          "type": "footer",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 1,
+          "pageEnd": 1
+        }
+      },
+      {
+        "blockId": "109",
+        "textBlock": {
+          "text": "webtrition\u00b2 web",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "110",
+        "textBlock": {
+          "text": "cowered by chefs",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "111",
+        "textBlock": {
+          "text": "esday, February 18, 2025 IATO",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "112",
+        "tableBlock": {
+          "bodyRows": [
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "113",
+                      "textBlock": {
+                        "text": "cipe # 238.1195 680.33 657.2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "114",
+                      "textBlock": {
+                        "text": "Recipe Name Italian Sausage Pizza Tater Tots Lettuce & Tomato Side Salad 1533, 2 Retrich Beans",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "115",
+                      "textBlock": {
+                        "text": "Portion Size 1 slice 2-1/2 ounce 3/4 cup 1/4uup",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "116",
+                      "textBlock": {
+                        "text": "Meal Components 2.25 Oz MMA, 2 Oz G (WG) 1/2 Cup V (S) 1/2 Cup V (1/4 Cup DG, 1/4 Cup RO) 1/4 CupVL)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "117",
+                      "textBlock": {
+                        "text": "Plan Svgs Reimb 144 0 32 O",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "118",
+                      "textBlock": {
+                        "text": "Plan Svgs Non-Reimb 0 D D 0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "119",
+                      "textBlock": {
+                        "text": "Plan Svgs Total 144 0 32 0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "120",
+                      "textBlock": {
+                        "text": "Prep Svgs Total 184 O 3.2 25",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "121",
+                      "textBlock": {
+                        "text": "QTY Prepared 23 Pizza crit cm Did not use 216 202 lettua 316 1402Tomato. 40 BK 2/18/25",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "122",
+                      "textBlock": {
+                        "text": "Serve Svgs Total 18 0 22",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "123",
+                      "textBlock": {
+                        "text": "Leftover 3 3",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "124",
+                      "textBlock": {
+                        "text": "Com \u4e0b \u03c0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 2,
+                        "pageEnd": 2
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            }
+          ],
+          "headerRows": [],
+          "caption": ""
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "125",
+        "textBlock": {
+          "text": "MenuWorks Production Record (K12)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "126",
+        "textBlock": {
+          "text": "Report Run By: STEPHANIE SE Run Date: 02/1 Dayton High School#2 (263",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "127",
+        "textBlock": {
+          "text": "=E-D Whole Grain Rich Dessert =WG-D Fr= Total Fruits; Fr-J= Fruit Juice; V= Total Vegetab",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "128",
+        "textBlock": {
+          "text": "Component Key Code: MMA = Total Meat/Meat Alternate; G= Total Grains; E= Enriched; WG = Whole Grain Rich; Enriched Dessert Dark Green; RO = Red/Orange; 1= Beans and Peas (Legumes); s= Starchy; o= Other; A= Additional; DG-J = Vegetable Juice; RO-J= Vegetable Juice; 0-J= Vegetable Juice; A-J= Vegetable Juice; Milk= Total Milk",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "129",
+        "textBlock": {
+          "text": "Bulk Quantity Prepared: Number of pounds, cases, #10 cans, etc. needed to produce total number of proportions prepared (refer to buying guide and/or right sized recipe) HACCP Codes: 1 - Ready to eat foods: No Cook; 2 - Same day service - No leftovers; 3 - Complex food prep - Cold finished product; 4 - Complex food prep - Hot finished product Leftover Status: TO - Thrown Out; RTS - Return to Stock; RF - Returned to Refrigerator; FZ - Returned to Freezer",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "130",
+        "textBlock": {
+          "text": "Copyright \u00a9 2025 Compass Group North America. (CGNA) All Rights Reserved. The contents of this website, including information viewed, downloaded or printed from this website, are proprietary and confidential to CGNA and may copied, used or disclosed without the express written permission of CGNA.",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "131",
+        "textBlock": {
+          "text": "Page 35 of 58",
+          "type": "footer",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 2,
+          "pageEnd": 2
+        }
+      },
+      {
+        "blockId": "132",
+        "textBlock": {
+          "text": "webtrition\u00b2",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "133",
+        "textBlock": {
+          "text": "powered by chefs",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "134",
+        "textBlock": {
+          "text": "iesday, February 18, 2025",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "135",
+        "textBlock": {
+          "text": "ONO",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "136",
+        "tableBlock": {
+          "bodyRows": [
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "137",
+                      "textBlock": {
+                        "text": "ecipe # 1810.33",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "138",
+                      "textBlock": {
+                        "text": "Recipe Name Portion Size 3 ounce Chicken Taco Meat Choose up to 2 item(s)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "139",
+                      "textBlock": {
+                        "text": "Meal Components 2 Oz MMA",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "140",
+                      "textBlock": {
+                        "text": "Plan Svgs Reimb Plan Svgs Non-Reimb 280",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "141",
+                      "textBlock": {
+                        "text": "Plan Svgs Total 280",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "142",
+                      "textBlock": {
+                        "text": "Prep Svgs Total 280",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "143",
+                      "textBlock": {
+                        "text": "QTY Prepared 50161202",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "144",
+                      "textBlock": {
+                        "text": "Serve Svgs Total 247",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "145",
+                      "textBlock": {
+                        "text": "Leftover 33",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "146",
+                      "textBlock": {
+                        "text": "Com To",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "147",
+                      "textBlock": {
+                        "text": "1573.8 2669.2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "148",
+                      "textBlock": {
+                        "text": "2 oz portion Tortilla Chips 1 each Soft Flour Tortilla",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "149",
+                      "textBlock": {
+                        "text": "2 Oz G (WG) 2.50 Oz G (WG)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "150",
+                      "textBlock": {
+                        "text": "280 12",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "151",
+                      "textBlock": {
+                        "text": "280 12",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "152",
+                      "textBlock": {
+                        "text": "\u09e7\u096a\u0966 14",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "153",
+                      "textBlock": {
+                        "text": "3516 IPL@Deacht",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "154",
+                      "textBlock": {
+                        "text": "234 13",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "155",
+                      "textBlock": {
+                        "text": "46",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "156",
+                      "textBlock": {
+                        "text": "Rt Rt",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "157",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "158",
+                      "textBlock": {
+                        "text": "Choose up to 1 item(s)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "159",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "160",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "161",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "162",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "163",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "164",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "165",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "166",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "167",
+                      "textBlock": {
+                        "text": "086.6",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "168",
+                      "textBlock": {
+                        "text": "2 floz Chile Con Queso Sauce",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "169",
+                      "textBlock": {
+                        "text": "5 Oz MMA",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "170",
+                      "textBlock": {
+                        "text": "280",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "171",
+                      "textBlock": {
+                        "text": "280",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "172",
+                      "textBlock": {
+                        "text": "280",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "173",
+                      "textBlock": {
+                        "text": "1316",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "174",
+                      "textBlock": {
+                        "text": "245",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "175",
+                      "textBlock": {
+                        "text": "35",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "176",
+                      "textBlock": {
+                        "text": "TO",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "177",
+                      "textBlock": {
+                        "text": "7852.9 1655.46 1672",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "178",
+                      "textBlock": {
+                        "text": "1 ounce Shredded Cheddar Cheese 1/2 cup Mexican Street Corn 1/2 cup Seasoned Carrots Choose up to 2 item(s)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "179",
+                      "textBlock": {
+                        "text": "1 Oz MMA 1/2 Cup V (S) 1/2 Cup V (RO)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "180",
+                      "textBlock": {
+                        "text": "10 100 \u0ea7 50",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "181",
+                      "textBlock": {
+                        "text": "10 100 50",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "182",
+                      "textBlock": {
+                        "text": "10 50 25",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "183",
+                      "textBlock": {
+                        "text": "10 02 916402 516402",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "184",
+                      "textBlock": {
+                        "text": "2 30 16",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "185",
+                      "textBlock": {
+                        "text": "8 20 \u0967",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "186",
+                      "textBlock": {
+                        "text": "T",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "187",
+                      "textBlock": {
+                        "text": "17635 00093",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "188",
+                      "textBlock": {
+                        "text": "1 each Sour Cream 1 each Hot Sauce",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "189",
+                      "textBlock": {
+                        "text": "extra extre",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "190",
+                      "textBlock": {
+                        "text": "2008",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "191",
+                      "textBlock": {
+                        "text": "200",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "192",
+                      "textBlock": {
+                        "text": "120",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "193",
+                      "textBlock": {
+                        "text": "1000 10000 @100+20 @100+10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "194",
+                      "textBlock": {
+                        "text": "10 119",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "195",
+                      "textBlock": {
+                        "text": "10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "196",
+                      "textBlock": {
+                        "text": "Rt Rt",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 3,
+                        "pageEnd": 3
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            }
+          ],
+          "headerRows": [],
+          "caption": ""
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "197",
+        "textBlock": {
+          "text": "MenuWorks Production Record (K12)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "198",
+        "textBlock": {
+          "text": "Report Run By: STEPHANIE SI Run Date: 02/ Dayton High School#2 (263",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "199",
+        "textBlock": {
+          "text": ")",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "200",
+        "textBlock": {
+          "text": "Component Key Code: MMA = Total Meat/Meat Alternate; G= Total Grains; E= Enriched; WG = Whole Grain Rich; Enriched Dessert = =E-D; Whole Grain Rich Dessert = WG-D; Fr= Total Fruits; Fr-J = Fruit Juice; V = Total Vegetat Dark Green; RO = Red/Orange; L= Beans and Peas (Legumes); S= Starchy; o= Other; A= Additional; DG-J = Vegetable Juice; RO-J = Vegetable Juice; 0-J= Vegetable Juice; A-J= Vegetable Juice; Milk= Total Milk Bulk Quantity Prepared: Number of pounds, cases, #10 cans, etc. needed to produce total number of proportions prepared (refer to buying guide and/or right sized recipe)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "201",
+        "textBlock": {
+          "text": "HACCP Codes: 1 - Ready to eat foods: No Cook; 2 - Same day service - No leftovers; 3 - Complex food prep - Cold finished product; 4 - Complex food prep - Hot finished product Leftover Status: TO - Thrown Out; RTS - Return to Stock; RF - Returned to Refrigerator; FZ - Returned to Freezer",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "202",
+        "textBlock": {
+          "text": "Copyright \u00a9 2025 Compass Group North America. (CGNA) All Rights Reserved. The contents of this website, including information viewed, downloaded or printed from this website, are proprietary and confidential to CGNA and ma copied, used or disclosed without the express written permission of CGNA.",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "203",
+        "textBlock": {
+          "text": "Page 36 of 58",
+          "type": "footer",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 3,
+          "pageEnd": 3
+        }
+      },
+      {
+        "blockId": "204",
+        "textBlock": {
+          "text": "webtrition\u00b2 powered by chels",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "205",
+        "textBlock": {
+          "text": "lesday, February 18, 2025",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "206",
+        "textBlock": {
+          "text": "MenuWorks Production Record (K12)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "207",
+        "textBlock": {
+          "text": "Report Run By: STEPHANIE SI Run Date: 02/1 Dayton High School#2 (263",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "208",
+        "textBlock": {
+          "text": "> DELI",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "209",
+        "tableBlock": {
+          "bodyRows": [
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "210",
+                      "textBlock": {
+                        "text": "ecipe #",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "211",
+                      "textBlock": {
+                        "text": "Recipe Name Portion Size Meal Components",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "212",
+                      "textBlock": {
+                        "text": "Plan Svgs Reimb",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "213",
+                      "textBlock": {
+                        "text": "Plan Svgs Non-Reimb",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "214",
+                      "textBlock": {
+                        "text": "Plan Svgs Total",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "215",
+                      "textBlock": {
+                        "text": "Prep Svgs Total",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "216",
+                      "textBlock": {
+                        "text": "QTY Prepared",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "217",
+                      "textBlock": {
+                        "text": "Serve Svgs Total",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "218",
+                      "textBlock": {
+                        "text": "Leftover",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "219",
+                      "textBlock": {
+                        "text": "Com",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "220",
+                      "textBlock": {
+                        "text": "1571",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "221",
+                      "textBlock": {
+                        "text": "Choose up to 1 item(s) 3-1/4 ounce 2 Oz MMA Deli Turkey",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "222",
+                      "textBlock": {
+                        "text": "30",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "223",
+                      "textBlock": {
+                        "text": "6",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "224",
+                      "textBlock": {
+                        "text": "30",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "225",
+                      "textBlock": {
+                        "text": "130",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "226",
+                      "textBlock": {
+                        "text": "Sib, 120 2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "227",
+                      "textBlock": {
+                        "text": "29 1",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "228",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "229",
+                      "textBlock": {
+                        "text": "A",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "230",
+                      "textBlock": {
+                        "text": "1571.90",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "231",
+                      "textBlock": {
+                        "text": "2.25 Oz M\u039c\u0391 3 ounce Sliced Deli Ham Choose up to 1 item(s)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "232",
+                      "textBlock": {
+                        "text": "30",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "233",
+                      "textBlock": {
+                        "text": "6",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "234",
+                      "textBlock": {
+                        "text": "30",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "235",
+                      "textBlock": {
+                        "text": "30",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "236",
+                      "textBlock": {
+                        "text": "615",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "237",
+                      "textBlock": {
+                        "text": "1 29",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "238",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "239",
+                      "textBlock": {
+                        "text": "n",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "240",
+                      "textBlock": {
+                        "text": "3026.120",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "241",
+                      "textBlock": {
+                        "text": "2 Oz G (WG) 2 slice Whole Grain Sliced Bread",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "242",
+                      "textBlock": {
+                        "text": "10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "243",
+                      "textBlock": {
+                        "text": "6",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "244",
+                      "textBlock": {
+                        "text": "10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "245",
+                      "textBlock": {
+                        "text": "10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "246",
+                      "textBlock": {
+                        "text": "goslice",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "247",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "248",
+                      "textBlock": {
+                        "text": "10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "249",
+                      "textBlock": {
+                        "text": "M",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "250",
+                      "textBlock": {
+                        "text": "1161.12 1925.1268",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "251",
+                      "textBlock": {
+                        "text": "2 Oz G (WG) 1 each Sub Roll 2.50 Oz MMA, 2 Oz G (WG) 1 sandwich Classic American Cheeseburger",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "252",
+                      "textBlock": {
+                        "text": "60 125",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "253",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "254",
+                      "textBlock": {
+                        "text": "60 125",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "255",
+                      "textBlock": {
+                        "text": "60 125",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "256",
+                      "textBlock": {
+                        "text": "20 eari 125 of pades 10px @nean Bunst Sen",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "257",
+                      "textBlock": {
+                        "text": "58 111 14",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "258",
+                      "textBlock": {
+                        "text": "2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "259",
+                      "textBlock": {
+                        "text": "al +",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "260",
+                      "textBlock": {
+                        "text": "7852.6",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "261",
+                      "textBlock": {
+                        "text": "1/2 ounce .5 Oz MMA American Cheese Choose up to 5 item(s)",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "262",
+                      "textBlock": {
+                        "text": "200",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "263",
+                      "textBlock": {
+                        "text": "G",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "264",
+                      "textBlock": {
+                        "text": "200",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "265",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "266",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "267",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "268",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "269",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "270",
+                      "textBlock": {
+                        "text": "2509.3",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "271",
+                      "textBlock": {
+                        "text": "1/4 Cup V (DG) 1/2 cup Fresh Chopped Romaine",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "272",
+                      "textBlock": {
+                        "text": "64",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "273",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "274",
+                      "textBlock": {
+                        "text": "64",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "275",
+                      "textBlock": {
+                        "text": "64",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "276",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "277",
+                      "textBlock": {
+                        "text": "39",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "278",
+                      "textBlock": {
+                        "text": "25",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "279",
+                      "textBlock": {
+                        "text": "ar",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "280",
+                      "textBlock": {
+                        "text": "7916.1",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "281",
+                      "textBlock": {
+                        "text": "1/4 Cup V (RO) 3 each Sliced Tomatoes",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "282",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "283",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "284",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "285",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "286",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "287",
+                      "textBlock": {
+                        "text": "IS S",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "288",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "289",
+                      "textBlock": {
+                        "text": "+c",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "290",
+                      "textBlock": {
+                        "text": "9949.1",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "291",
+                      "textBlock": {
+                        "text": "1/4 Cup V (O) 1/4 cup Sliced Cucumbers",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "292",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "293",
+                      "textBlock": {
+                        "text": "6",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "294",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "295",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "296",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "297",
+                      "textBlock": {
+                        "text": "19 1",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "298",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "299",
+                      "textBlock": {
+                        "text": "c",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "300",
+                      "textBlock": {
+                        "text": "7412.10",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "301",
+                      "textBlock": {
+                        "text": "1/8 Cup V (O) 1/8 cup Fresh Sliced Red Onion",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "302",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "303",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "304",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "305",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "306",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "307",
+                      "textBlock": {
+                        "text": "18",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "308",
+                      "textBlock": {
+                        "text": "2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "309",
+                      "textBlock": {
+                        "text": "1",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "310",
+                      "textBlock": {
+                        "text": "9508.4",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "311",
+                      "textBlock": {
+                        "text": "1 tbsp Fresh Jalapenos",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "312",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "313",
+                      "textBlock": {
+                        "text": "0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "314",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "315",
+                      "textBlock": {
+                        "text": "20",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "316",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "317",
+                      "textBlock": {
+                        "text": "19",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "318",
+                      "textBlock": {
+                        "text": "1",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "319",
+                      "textBlock": {
+                        "text": "C",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "blocks": [
+                    {
+                      "blockId": "320",
+                      "textBlock": {
+                        "text": "5657.2 9343.41 7796.10 813 244",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "321",
+                      "textBlock": {
+                        "text": "3/4 cup 1/2 Cup V (1/4 Cup DG, 1/4 Cup RO) 1/2 Cup V (L) Lettuce & Tomato Side Salad 1/2 cup Mexican Style Pinto Beans 1 floz Hia Buffalo Ranch Sauce lea Senbutter sal 21 nus 102 WG",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "322",
+                      "textBlock": {
+                        "text": "100 48 100 2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "323",
+                      "textBlock": {
+                        "type": "paragraph",
+                        "text": "",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "324",
+                      "textBlock": {
+                        "text": "100 48 100 2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "325",
+                      "textBlock": {
+                        "text": "128 48 100 2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "326",
+                      "textBlock": {
+                        "text": "41b, boz lett 215802 26,802 216,402 1002 1516, 8e2tom 815, 1207 KH 2019 24SECU  416 Ranch, 3Ccps S BOLVIO SLEE 8tbs sunbut is the 18-04",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "327",
+                      "textBlock": {
+                        "text": "120 46 8713 2 0",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "328",
+                      "textBlock": {
+                        "text": "8 2",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "blocks": [
+                    {
+                      "blockId": "329",
+                      "textBlock": {
+                        "text": "M 1 Al 21",
+                        "type": "paragraph",
+                        "blocks": []
+                      },
+                      "pageSpan": {
+                        "pageStart": 4,
+                        "pageEnd": 4
+                      }
+                    }
+                  ],
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            }
+          ],
+          "headerRows": [],
+          "caption": ""
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "330",
+        "textBlock": {
+          "text": "Component Key Code: MMA = Total Meat/Meat Alternate; G = Total Grains; E = Enriched; WG = Whole Grain Rich; Enriched Dessert = E-D; Whole Grain Rich Dessert = WG-D; Fr = Total Fruits; Fr-J = Fruit Juice; V = Total Vegetal Dark Green; RO = Red/Orange; L = Beans and Peas (Legumes); S = Starchy; O = Other; A = Additional; DG-J = Vegetable Juice; RO-J = Vegetable Juice; O-J = Vegetable Juice; A-J = Vegetable Juice; Milk = Total Milk Bulk Quantity Prepared: Number of pounds, cases, #10 cans, etc. needed to produce total number of proportions prepared (refer to buying guide and/or right sized recipe)",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "331",
+        "textBlock": {
+          "text": "HACCP Codes: 1 - Ready to eat foods: No Cook; 2 - Same day service - No leftovers; 3 - Complex food prep - Cold finished product; 4 - Complex food prep - Hot finished product Leftover Status: TO - Thrown Out; RTS - Return to Stock; RF - Returned to Refrigerator; FZ - Returned to Freezer",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "332",
+        "textBlock": {
+          "text": "Copyright\u00a9 2025 Compass Group North America. (CGNA) All Rights Reserved. The contents of this website, including information viewed, downloaded or printed from this website, are proprietary and confidential to CGNA and may copied, used or disclosed without the express written permission of CGNA.",
+          "type": "paragraph",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      },
+      {
+        "blockId": "333",
+        "textBlock": {
+          "text": "Page 37 of 58",
+          "type": "footer",
+          "blocks": []
+        },
+        "pageSpan": {
+          "pageStart": 4,
+          "pageEnd": 4
+        }
+      }
+    ]
+  },
+  "docid": "",
+  "mimeType": "",
+  "text": "",
+  "textStyles": [],
+  "pages": [],
+  "entities": [],
+  "entityRelations": [],
+  "textChanges": [],
+  "revisions": []
+}
